@@ -22,7 +22,8 @@ How to Run the Project
     4. Open the project solution. = TicTacToe.sln
     5. No need to install dependencies—everything is included.
     6. Run the project and start playing!
-
+    
+Note: You need to login first to play in every mode
 Note: In Multiplayer Mode: 
     To play you have to enter your opponent username that is registerd in the website  to start the game.
 
